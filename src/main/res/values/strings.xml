@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DA106G2_EMP</string>
+    <string name="user_account">帳號</string>
+    <string name="password">密碼</string>
+    <string name="login">登入</string>
+    <string name="err_account_password">帳號密碼錯誤</string>
+    <string name="title_activity_select_features">SelectFeaturesActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="qr_code_scanning">QRcode掃描</string>
+    <string name="please_enter_booking_id">請輸入訂位編號</string>
+    <string name="inquire">查詢</string>
+    <string name="sign_out">登出</string>
+    <string name="not_connected">未連線</string>
+    <string name="check_in">Check In</string>
+    <string name="check_out">Check Out</string>
+    <string name="submit">送出</string>
+</resources>

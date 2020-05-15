@@ -1,0 +1,4 @@
+# Practicing Git
+# DA106G2_EMP
+# DA106G2_EMP
+# DA106G2_EMP
